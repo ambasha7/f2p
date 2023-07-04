@@ -65,11 +65,13 @@ img{
     margin-left: 3px;
 }
 
-
+thead{
+    border-bottom: solid 1px white;
+}
 td{
     padding-left: 5px;
     border-right: solid 1px white;
 }
 th{
-    border-bottom:solid 1px white;
+    border-bottom: solid 1px white;
 }
